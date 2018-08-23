@@ -28,4 +28,4 @@ The workflow currently does not use it, but there is a python script that compre
 
 ## Disclaimer
 
-I do not have any kind of affiliation to [https://ouline.com](https://ouline.com) and this is not an official product.
+I do not have any kind of affiliation with [https://ouline.com](https://ouline.com) and this is not an official product.
